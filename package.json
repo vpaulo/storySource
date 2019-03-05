@@ -1,6 +1,6 @@
 {
   "name": "storysource",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storybook addon to show story source",
   "main": "src/index.js",
   "scripts": {
