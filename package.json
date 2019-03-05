@@ -1,0 +1,36 @@
+{
+  "name": "storysource",
+  "version": "1.0.0",
+  "description": "Storybook addon to show story source",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpaulo/storySource.git"
+  },
+  "keywords": [
+    "storybook",
+    "addon"
+  ],
+  "author": "Vitor Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpaulo/storySource/issues"
+  },
+  "homepage": "https://github.com/vpaulo/storySource#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@storybook/addons": "^4.1.13",
+    "babel-loader": "^8.0.5",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
